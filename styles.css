@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  font-family: 'Kirang Haerang', cursive;
+}
+h1{
+  color: white;
+  font-size: 50px;
+}
+#title {
+  margin:auto;
+  width: 80%;
+  background-color: black;
+}
